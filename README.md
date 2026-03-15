@@ -37,7 +37,8 @@ https://osf.io/6sehb/?view_only=2f89bc3472594e3ba0ceff0fc76198b6
 ```text
 ├── Boolean_Queries_Example
 |    ├── data_preparation/        # frequency statistics 
-|    │       └── frequency.py         
+|    │       └── frequency.py
+|    │       └─  run_attack.py    #artificial datase       
 |    ├── Jigsaw/                  # Jigsaw attack
 |    │   ├── jigsaw.py            
 |    │   └─  run_attack.py        
